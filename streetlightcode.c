@@ -1,4 +1,6 @@
-//This code is for a streetlight project using an Arduino board, where the program controls several LEDs based on inputs from a light-dependent resistor (LDR) and infrared (IR) sensors. The general idea is that the LEDs (representing streetlights) will turn on or off based on the light level detected by the LDR and the proximity or motion detected by the IR sensors.
+//This code is for a streetlight project using an Arduino board, where the program controls several LEDs based on inputs from 
+//a light-dependent resistor (LDR) and infrared (IR) sensors. The general idea is that the LEDs (representing streetlights) will 
+///turn on or off based on the light level detected by the LDR and the proximity or motion detected by the IR sensors.
 
 
 int led = 2;
